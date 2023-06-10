@@ -19,7 +19,7 @@
 Si deseas conocer más sobre mis proyectos o simplemente quieres charlar sobre tecnología, no dudes en contactarme a través de las siguientes vías:
 
 - 📧 Correo electrónico: santacruz-ortega@hotmail.com.
-- 💼 LinkedIn: [https://www.linkedin.com/in/jhonier-santacruz/].
+- 💼 [LinkedIn] [https://www.linkedin.com/in/jhonier-santacruz/].
 
 ¡Espero poder conectarme contigo y compartir ideas interesantes en el mundo de la tecnología!
 
