@@ -4,6 +4,7 @@
 
 ## Sobre mí
 
+- 🎓 Java & Python Jr Developer.
 - 💻 Apasionado por el mundo de la tecnología y la informática.
 - 🎵 Amante de la música clásica.
 - 🌎 Ubicación: Colombia.
@@ -18,8 +19,8 @@
 
 Si deseas conocer más sobre mis proyectos o simplemente quieres charlar sobre tecnología, no dudes en contactarme a través de las siguientes vías:
 
-- 📧 Correo electrónico: santacruz-ortega@hotmail.com.
-- 💼 [LinkedIn] [https://www.linkedin.com/in/jhonier-santacruz/].
+- 📧 <a href="mailto:santacruz-ortega@hotmail.com">Email</a>
+- 💼 <a href="https://www.linkedin.com/in/jhonier-santacruz">LinkedIn</a>
 
 ¡Espero poder conectarme contigo y compartir ideas interesantes en el mundo de la tecnología!
 
