@@ -1,16 +1,25 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Jhonier Santacruz
 
-<!--
-**JhonierSA/JhonierSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de Git! Aquí encontrarás información sobre mí, mis proyectos y mi experiencia en el mundo de la tecnología.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Apasionado por el mundo de la tecnología y la informática.
+- 🎵 Amante de la música clásica.
+- 🌎 Ubicación: Colombia.
+
+## Habilidades
+
+- 💬 Excelente habilidad de comunicación.
+- 👥 Trabajo en equipo efectivo y colaborativo.
+- 💡 Resolución de problemas creativa y eficiente.
+
+## ¡Contáctame!
+
+Si deseas conocer más sobre mis proyectos o simplemente quieres charlar sobre tecnología, no dudes en contactarme a través de las siguientes vías:
+
+- 📧 Correo electrónico: santacruz-ortega@hotmail.com.
+- 💼 LinkedIn: [https://www.linkedin.com/in/jhonier-santacruz/].
+
+¡Espero poder conectarme contigo y compartir ideas interesantes en el mundo de la tecnología!
+
