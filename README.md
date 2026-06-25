@@ -4,7 +4,7 @@ Backend & Cloud Developer especializado en **C#, ASP.NET Core, SQL Server y arqu
 
 Además, cuento con experiencia en desarrollo frontend con Angular, aplicaciones móviles con Flutter, contenedorización con Docker, análisis de datos con Power BI y diseño de bases de datos orientadas al rendimiento.
 
-## 🌐 Portfolio
+## 🌐 Portafolio
 
 https://jhoniersa.com
 
